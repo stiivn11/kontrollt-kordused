@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kontrolltöö kordused", "kontrolltöö kordused.pyproj", "{C8B74B7F-9DA7-40BA-8C33-2E15D5315F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8B74B7F-9DA7-40BA-8C33-2E15D5315F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B74B7F-9DA7-40BA-8C33-2E15D5315F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCAEA7A6-D480-4716-92D9-629565D3DF18}
+	EndGlobalSection
+EndGlobal
